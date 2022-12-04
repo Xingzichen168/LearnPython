@@ -21,5 +21,6 @@ for i in range(1, 10):
 # print(L)
 
 # L = list(filter(lambda x: x % 2 == 1, range(1, 20)))
-a = range(0, 10)
-print(type(a))
+# a = range(0, 10)
+# print(type(a))
+#
